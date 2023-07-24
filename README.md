@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucu44
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in cellular biochemistry, exercise physiology
 - 🌱 I’m currently learning data sciences, machine learning
 - 💞️ I’m looking to collaborate on ...
